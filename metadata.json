@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AgriVision AI",
+  "description": "Advanced AI-powered plant disease detection, crop advisory, and profit calculator for modern farmers.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
